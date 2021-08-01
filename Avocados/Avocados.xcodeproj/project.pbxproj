@@ -11,6 +11,7 @@
 		C8826A3026B6222800502999 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8826A2F26B6222800502999 /* ContentView.swift */; };
 		C8826A3226B6222B00502999 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8826A3126B6222B00502999 /* Assets.xcassets */; };
 		C8826A3526B6222B00502999 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8826A3426B6222B00502999 /* Preview Assets.xcassets */; };
+		C8826A3D26B6C83400502999 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C8826A3C26B6C83400502999 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		C8826A3126B6222B00502999 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C8826A3426B6222B00502999 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C8826A3626B6222B00502999 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C8826A3C26B6C83400502999 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C8826A3126B6222B00502999 /* Assets.xcassets */,
 				C8826A3626B6222B00502999 /* Info.plist */,
 				C8826A3326B6222B00502999 /* Preview Content */,
+				C8826A3C26B6C83400502999 /* LaunchScreen.storyboard */,
 			);
 			path = Avocados;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C8826A3D26B6C83400502999 /* LaunchScreen.storyboard in Resources */,
 				C8826A3526B6222B00502999 /* Preview Assets.xcassets in Resources */,
 				C8826A3226B6222B00502999 /* Assets.xcassets in Resources */,
 			);
